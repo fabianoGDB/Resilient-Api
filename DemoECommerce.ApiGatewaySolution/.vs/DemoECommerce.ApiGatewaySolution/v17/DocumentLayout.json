@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.apigatewaysolution\\apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.apigatewaysolution\\apigateway.presentation\\middleware\\attachsignaturetorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\middleware\\attachsignaturetorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.apigatewaysolution\\apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D41ACA-4167-420E-B55B-3369E8B8E680}|..\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.apigatewaysolution\\apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DEEE6EB-66C9-49B6-8F1B-8EF0F6810A11}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T15:54:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttachSignatureToRequest.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Middleware\\AttachSignatureToRequest.cs",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Middleware\\AttachSignatureToRequest.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Middleware\\AttachSignatureToRequest.cs",
+              "RelativeToolTip": "ApiGateway.Presentation\\Middleware\\AttachSignatureToRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:51:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListenToOnlyApiGateway.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:50:53.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "RelativeToolTip": "ApiGateway.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:43:09.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\ocelot.json",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\ocelot.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T00:01:45.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

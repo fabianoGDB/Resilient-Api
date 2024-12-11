@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B94897-A410-4A11-9645-BD380C64A6EF}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B94897-A410-4A11-9645-BD380C64A6EF}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB999C73-8B2E-4378-BBF8-41FD8D15FF5B}|AthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\athenticationapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB999C73-8B2E-4378-BBF8-41FD8D15FF5B}|AthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:athenticationapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B94897-A410-4A11-9645-BD380C64A6EF}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7B94897-A410-4A11-9645-BD380C64A6EF}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECEEBD-05DE-4671-87AC-E9C4475F89AA}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\authenticationapi.application\\dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECEEBD-05DE-4671-87AC-E9C4475F89AA}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB999C73-8B2E-4378-BBF8-41FD8D15FF5B}|AthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\athenticationapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB999C73-8B2E-4378-BBF8-41FD8D15FF5B}|AthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:athenticationapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B94897-A410-4A11-9645-BD380C64A6EF}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7B94897-A410-4A11-9645-BD380C64A6EF}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECEEBD-05DE-4671-87AC-E9C4475F89AA}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\authenticationapi.application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECEEBD-05DE-4671-87AC-E9C4475F89AA}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECEEBD-05DE-4671-87AC-E9C4475F89AA}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.authenticationapisolution\\authenticationapi.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECEEBD-05DE-4671-87AC-E9C4475F89AA}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T20:16:03.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T20:15:59.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "AthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "AthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:32:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAD4vzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:08:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:21:11.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:09:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:43:15.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:41:40.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

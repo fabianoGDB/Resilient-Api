@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\docto\\source\\repos\\DemoECommerce.SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{024561E0-EF45-4A7A-B65F-AC6BD554A243}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependecyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024561E0-EF45-4A7A-B65F-AC6BD554A243}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependecyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024561E0-EF45-4A7A-B65F-AC6BD554A243}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|c:\\users\\docto\\source\\repos\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependecyinjection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024561E0-EF45-4A7A-B65F-AC6BD554A243}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependecyinjection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependecyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "ECommerce.SharedLibrary\\DependecyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependecyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "ECommerce.SharedLibrary\\DependecyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:46:19.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtAuthenticationScheme.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependecyInjection\\JwtAuthenticationScheme.cs",
+              "RelativeDocumentMoniker": "ECommerce.SharedLibrary\\DependecyInjection\\JwtAuthenticationScheme.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\DemoECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependecyInjection\\JwtAuthenticationScheme.cs",
+              "RelativeToolTip": "ECommerce.SharedLibrary\\DependecyInjection\\JwtAuthenticationScheme.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:37:23.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
